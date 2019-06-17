@@ -1,6 +1,6 @@
-baseURL: http://something-fresh.org/
+baseURL: http://miguelmadero.com/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Miguel Madero
 theme: hugo-fresh
 
 params:
