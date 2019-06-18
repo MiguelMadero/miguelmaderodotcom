@@ -1,6 +1,0 @@
-baseURL = "https://www.miguelmadero.com"
-title = "Andrew Best"
-# for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
-
-theme = "minimo"
